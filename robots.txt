@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mogatatatsu0208.github.io/kaesukun-review-reply/sitemap.xml
